@@ -47,13 +47,12 @@ specialties:
   - Cyber Security
   - Cloud Architecture
 current_focus: Building secure, scalable AI-powered applications
-certifications: 11+ Professional Certifications
+certifications: Professional Certifications Below
 ```
 
 - 🔭 Currently working on AI/ML Cloud based solutions and cybersecurity projects
 - 🌱 Learning advanced cybersecurity techniques and cloud-native architectures
 - 💡 Passionate about securing intelligent systems
-- ⚡ Fun fact: I hold certifications from AWS, Azure, CompTIA, PMI, and more!
 
 ---
 
@@ -130,9 +129,32 @@ certifications: 11+ Professional Certifications
 </div>
 
 ---
-<!--
-## 🎯 Featured Projects
 
+## 🎯 Featured Projects
+### 🛡️ [AWS Pentesting CTF: Lateral Movement in Misconfigured Cloud Infrastructure](https://github.com/AlCodes808/AWS-Pentesting-pivoting)
+> Cloud security lab demonstrating real-world attack chains in AWS
+
+- Designed a full Capture-the-Flag environment simulating production-like AWS misconfigurations  
+- Showcases lateral movement across segmented VPC networks using SSRF, IMDSv1 abuse, overprivileged IAM roles, and security group flaws  
+- Built automated infrastructure provisioning with randomized cloud misconfigurations for unique deployments  
+- Includes multi-tier EC2 architecture (DMZ → Internal → Restricted) and vulnerable service configurations  
+- Demonstrates end-to-end intrusion chain: initial access → credential theft → AWS resource enumeration → pivoting → crown-jewel data exfiltration  
+
+
+### 🚗 [CAN Bus Communication Simulator](https://github.com/AlCodes808/CAN-Bus-Communication-Sim)
+> Automotive network simulation demonstrating multi-ECU communication, arbitration, and real-time diagnostics
+
+- Developed a full software-based CAN (Controller Area Network) simulator modeling real automotive ECU behavior  
+- Implements multi-node communication across Engine, Brake, Body Control, and Infotainment ECUs  
+- Supports CAN 2.0B–style message arbitration, collision handling, and priority-based frame transmission  
+- Features diagnostic trouble code (DTC) generation, fault monitoring, and realistic message flow patterns  
+- Built a web dashboard for real-time traffic visualization, ECU status monitoring, and collision alerts  
+- Showcases embedded-systems concepts: circular buffers, state machines, binary protocols, and timing-driven execution  
+
+
+
+
+<!--
 ### 🤖 [Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/project1)
 > AI/ML powered application with cloud deployment
 - Built with Python, TensorFlow, AWS SageMaker
