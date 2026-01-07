@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 name: Alonzo
 role: Full Stack Software Engineer
 education: 
-  - BS Computer Science
-  - MS Computer Science
+  - BS & MS Computer Science
   - MS Cyber Security (In Progress)
 specialties:
   - Machine Learning & Artificial Intelligence
@@ -99,10 +98,10 @@ certifications: Professional Certifications Below
 <div align="center">
 
 ### ☁️ Cloud & Machine Learning
-[![AWS MLA](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+[![AWS MLA](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![AWS Developer](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
-[![AZ-900](https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+<!--  [![AWS Developer](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)  -->
+<!-- [![AZ-900](https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)  -->
 
 ### 🔒 Security & Infrastructure
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E51937?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
@@ -112,7 +111,7 @@ certifications: Professional Certifications Below
 
 ### 📊 Project Management
 [![Project+](https://img.shields.io/badge/CompTIA-Project%2B-E51937?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/project)
-[![CAPM](https://img.shields.io/badge/PMI-CAPM-00558C?style=for-the-badge&logo=pmi&logoColor=white)](https://www.pmi.org/certifications/certified-associate-capm)
+<!-- [![CAPM](https://img.shields.io/badge/PMI-CAPM-00558C?style=for-the-badge&logo=pmi&logoColor=white)](https://www.pmi.org/certifications/certified-associate-capm)  -->
 
 </div>
 
