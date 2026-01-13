@@ -130,6 +130,18 @@ certifications: Professional Certifications Below
 ---
 
 ## 🎯 Featured Projects
+
+### 🛡️ [CAN Bus Sentinel IDS: Automotive Intrusion Detection System](https://github.com/AlCodes808/CAN-Bus-Sentinel-IDS)
+> Enterprise-grade security monitoring combining rule-based detection with ML-powered anomaly analysis for automotive CAN bus networks
+- Built hybrid intrusion detection system with 5 rule-based engines (ID whitelist, frequency, payload, bus load, sequence) plus Isolation Forest ML model achieving 86% detection accuracy  
+- Deployed machine learning from Python training (scikit-learn) to embedded C inference with zero external dependencies and <1ms processing time per frame  
+- Detected 23 sophisticated zero-day attacks that bypassed traditional signature-based detection through statistical timing pattern analysis  
+- Developed professional enterprise dashboard with 10+ interactive Chart.js visualizations, advanced multi-criteria filtering, and real-time threat classification  
+- Simulates realistic attack vectors: CAN ID fuzzing, DoS flooding (bus saturation), and message injection with configurable attack timing  
+- Demonstrates full-stack automotive security expertise: C embedded systems, Python ML pipeline, JavaScript frontend, and AUTOSAR-inspired architecture  
+- Achieved 49.6% detection rate with 0 false positives on normal traffic across 234 analyzed frames
+
+
 ### 🛡️ [AWS Pentesting CTF: Lateral Movement in Misconfigured Cloud Infrastructure](https://github.com/AlCodes808/AWS-Pentesting-pivoting)
 > Cloud security lab demonstrating real-world attack chains in AWS
 
