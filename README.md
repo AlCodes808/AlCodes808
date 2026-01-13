@@ -117,15 +117,7 @@ certifications: Professional Certifications Below
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-![Alonzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlCodes808&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide=prs,contribs)
-
-
-
-</div>
 
 ---
 
@@ -187,7 +179,12 @@ certifications: Professional Certifications Below
 
 ---
 -->
+
+---
+---
+
 <div align="center">
+
 
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
