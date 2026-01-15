@@ -1,33 +1,11 @@
 
-<!--
-**AlCodes808/AlCodes808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 <div align="center">
   
 #  🖖  Hi, I'm Alonzo
 
-### Full Stack Software Engineer | AI/ML Specialist | Cybersecurity Enthusiast
+### Full Stack Software Engineer && Cybersecurity Enthusiast
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
--->
 
 </div>
 
@@ -36,22 +14,16 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 ```yaml
-name: Alonzo
-role: Full Stack Software Engineer
+role: Freelance Full Stack Software Engineer
 education: 
-  - BS & MS Computer Science
+  - BS Computer Science
   - MS Cyber Security (In Progress)
 specialties:
   - Machine Learning & Artificial Intelligence
-  - Cyber Security
-  - Cloud Architecture
-current_focus: Building secure, scalable AI-powered applications
+current_focus: Integrating security into ML, Cloud, And Embeded Software Projects. Studying for OSCP.
 certifications: Professional Certifications Below
 ```
 
-- 🔭 Currently working on AI/ML Cloud based solutions and cybersecurity projects
-- 🌱 Learning advanced cybersecurity techniques and cloud-native architectures
-- 💡 Passionate about securing intelligent systems
 
 ---
 
@@ -106,7 +78,7 @@ certifications: Professional Certifications Below
 ### 🔒 Security & Infrastructure
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E51937?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-E51937?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/network)
-[![Splunk](https://img.shields.io/badge/Splunk-Core_Certified_User-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/en_us/training.html)
+<!-- [![Splunk](https://img.shields.io/badge/Splunk-Core_Certified_User-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/en_us/training.html) -->
 [![ITIL 4](https://img.shields.io/badge/ITIL-4_Foundation-6C3483?style=for-the-badge&logo=itil&logoColor=white)](https://www.axelos.com/certifications/itil-certifications)
 
 ### 📊 Project Management
@@ -157,7 +129,7 @@ certifications: Professional Certifications Below
 
 
 ### [CyberSecurity and CloudSec directory here](https://github.com/AlCodes808/Networking-And-Cybersecurity )
-
+> Still growing as I progress...
 <!--
 ### 🤖 [Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/project1)
 > AI/ML powered application with cloud deployment
@@ -192,7 +164,6 @@ certifications: Professional Certifications Below
 
 ---
 
-**"Securing the future, one line of code at a time"** 🚀
 
 ⭐️ From [Alonzo](https://github.com/AlCodes808)
 
