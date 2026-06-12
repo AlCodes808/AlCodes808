@@ -109,7 +109,7 @@ specialties:
 - Rollback engine snapshots firmware pre-update and restores automatically on health check failure with zero manual intervention
 - Integrated AWS IoT Core MQTT, S3 artifact storage, DynamoDB fleet state tracking, Lambda rollout controller, and SNS alerting
 - Staged canary rollout halts automatically when fleet failure rate exceeds configurable threshold
-- Recall tracking system inspired by Waymo's 3,791-vehicle OTA recall - per-device remediation records with regulatory-grade auditability
+- Recall tracking system - per-device remediation records with regulatory-grade auditability
 
 ### 📡 [HELIX - Fleet Telemetry Platform](https://github.com/AlCodes808/fleet-telemetry)
 > End-to-end telemetry platform for monitoring aerospace embedded systems in real time
